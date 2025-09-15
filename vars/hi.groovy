@@ -1,4 +1,3 @@
-def call () {
-  sh 'echo " this is from the shared libary" ' 
+def call() {
+    sh 'echo "this is from the shared library"'
 }
-
